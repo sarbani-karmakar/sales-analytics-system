@@ -1,0 +1,17 @@
+============================================
+           SALES ANALYTICS REPORT
+Generated: 2026-01-12 19:37:37
+Records Processed: 71
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:        ₹3,540,205.00
+Total Transactions:   71
+Average Order Value:  ₹49,862.04
+Date Range:           2024-12-01 to 2024-12-30
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Total Enriched Records: 0
+Success Rate: 0.00%
