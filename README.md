@@ -32,7 +32,7 @@ sales-analytics-system/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/sales-analytics-system.git
+git clone https://github.com/sarbani-karmakar/sales-analytics-system.git
 cd sales-analytics-system
 ```
 
